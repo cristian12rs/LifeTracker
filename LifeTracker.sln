@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LifeTracker.Application", "LifeTracker.Common.Data\LifeTracker.Application.csproj", "{0C5E2C51-E4F6-4B6A-8D7E-27B3C2835C8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LifeTracker.Application", "LifeTracker.Application\LifeTracker.Application.csproj", "{0C5E2C51-E4F6-4B6A-8D7E-27B3C2835C8F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LifeTracker.Data", "LifeTracker.Data\LifeTracker.Data.csproj", "{C93D5C78-C721-4BC4-A971-142A39993779}"
 EndProject
